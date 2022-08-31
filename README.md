@@ -1,4 +1,4 @@
-# ![Hellp there! I'm Vamsi 👋🏻](https://github.com/VamsiChelluri/sample/blob/master/Header1.gif)
+# ![Hellp there! I'm Vamsi 👋🏻](https://github.com/VamsiChelluri/sample/blob/master/Header.gif)
 
 
 ## About me
@@ -109,7 +109,7 @@ Here are a few things I've picked up along my learning journey.
 
 
 
-![Footer](https://github.com/VamsiChelluri/sample/blob/master/Footer1.gif)
+![Footer](https://github.com/VamsiChelluri/sample/blob/master/Git-Footer.gif)
 <!---
 VamsiChelluri/VamsiChelluri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
