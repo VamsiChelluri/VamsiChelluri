@@ -3,7 +3,7 @@
 
 ## About me
 
-- 👨‍💻 I'm working as a Software Engineer at [Accolite Digital](https://www.accolite.com/).
+- 👨‍💻 I'm working as a Software Engineer.
 - 💡 I am passionate about learning technologies and trying out new things.
 - 🌱 I'm on track for learning more about Spring boot full stack and React.
 - ⏰ I love to read books and play cricket in my free time.
